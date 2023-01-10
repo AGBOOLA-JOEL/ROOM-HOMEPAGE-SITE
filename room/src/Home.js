@@ -16,6 +16,8 @@ const Home = ({ slides }) => {
     setCurrentIndex(newIndex);
   };
 
+  // comments
+
   const Next = () => {
     const isNextSlide = currentIndex === slides.length - 1;
     const newIndex = isNextSlide ? 0 : currentIndex + 1;
