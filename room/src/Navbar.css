@@ -84,9 +84,9 @@
   .back {
     background-color: rgb(10, 10, 10, 0.5);
     height: 1850px;
-    width: 412px;
-    margin-left: -270px;
+    width: 420px;
+    margin-left: -290px;
     position: absolute;
-    margin-top: 30px;
+    margin-top: 25px;
   }
 }
